@@ -1,0 +1,140 @@
+body {
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	font-family: 'Castoro', serif;
+}
+
+p {
+	font-size: 15px;
+	font-family: 'Castoro', serif;
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+.headline {
+	font-weight: lighter;
+	color: black;
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Castoro', serif;
+}
+
+.container {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: 100%;
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+h5 {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 13px;
+	background-color: white;
+}
+
+h4 {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 5px;
+	font-size: 20px;
+	background-color: white;
+	font-family: 'Castoro', serif;
+}
+
+.birth-rate {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+.abortion-rate {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+.clinic-closures {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+.map {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+.unintended-pregnancy {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+.policies {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+.alabama {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
+
+.maryland {
+	margin: auto;
+	width: 90%;
+	border: 3px solid white;
+	padding: 10px;
+	font-size: 20px;
+	background-color: white;
+}
