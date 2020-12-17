@@ -1,0 +1,138 @@
+body {
+	background-color: #fbf7f5;
+	margin: 0;
+	padding: 0;
+	font-family: 'Merriweather', serif;
+}
+
+.name {
+	color: #b86b77;
+	font-size: 75px;
+	text-align: center;
+	font-weight: 800;
+	background-color: #404040;
+	width: px;
+	border: 17px solid black;
+	padding: 5px;
+	margin: 20px;
+}
+
+.portrait {
+	max-width: 100%;
+	max-height: 100%;
+	background-color: white;
+}
+
+.bio {
+	font-size: 15px;
+	color: black;
+	border: 30px solid white;
+	line-height: 1.9;
+	padding: 30px #fbf7f5;
+	margin: 20px white;
+	background-color: #fbf7f5;
+	font-family: 'source serif pro', serif;
+}
+
+.resume {
+	font-size: 75px;
+	color: black;
+	font-weight: bold;
+	border-bottom: 2px solid #b86b77;
+	padding: 5px;
+	margin: 20px;
+}
+
+.resume-text {
+	text-align: left;
+	background-color: white;
+	width: 950px;
+	border: 15px solid white;
+	padding: 25px;
+	margin: 20px;
+	font-family: 'source serif pro', serif;
+}
+
+p.field {
+	font-weight: bold;
+	color: #b86b77;
+	font-style: italic;
+	font-size: 20px;
+}
+
+.clips {
+	font-size: 75px;
+	color: black;
+	font-weight: bold;
+	padding: 5px;
+	margin: 15px;
+}
+
+p.title {
+	font-size: 75px;
+	color: black;
+	font-weight: bold;
+	border-bottom: 2px solid #b86b77;
+	padding: 5px;
+	margin: 20px;
+}
+
+p.contact-name {
+	font-style: italic;
+	font-weight: bold;
+	color: #b86b77;
+	text-align: center;
+	font-size: 35px;
+}
+
+.contact {
+	font-size: 30px;
+	color: black;
+	padding: 5px;
+	margin: 20px;
+	text-align: center;
+	font-family: 'source serif pro', serif;
+}
+
+img {
+	align-content: center;
+}
+
+@media ( max-width: 770px) {
+	.name {
+		width: 440px;
+	}
+	.resume-text {
+		width: 460px;
+	}
+}
+
+@media (max-width: 995px) {
+	.name {
+		text-align: center;
+		width: 720px;
+	}
+	.resume-text {
+		width: 720px
+	}
+}
+
+@media (max-width: 1200px) {
+	.name {
+		text-align: center;
+		width: 960px;
+	}
+	.resume-text {
+		width: 960px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.name {
+		text-align: center;
+		width: 1140px;
+	}
+	.resume-text {
+		width: 1140px;
+	}
+}
