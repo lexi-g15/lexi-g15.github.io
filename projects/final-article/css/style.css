@@ -3,10 +3,11 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: 'Castoro', serif;
+	font-size: 12px;
 }
 
 p {
-	font-size: 15px;
+	font-size: 12px;
 	font-family: 'Castoro', serif;
 	margin: auto;
 	width: 90%;
@@ -25,7 +26,7 @@ p {
 	padding: 10px;
 	padding-top: 10px;
 	text-align: center;
-	font-size: 25px;
+	font-size: 20px;
 	font-family: 'Castoro', serif;
 }
 
@@ -55,6 +56,9 @@ h5 {
 	padding: 10px;
 	font-size: 13px;
 	background-color: white;
+	font-family: 'Castoro', serif;
+	border-bottom: 1px solid #e75480;
+	line-height: 1.5em;
 }
 
 h4 {
@@ -137,4 +141,13 @@ h4 {
 	padding: 10px;
 	font-size: 20px;
 	background-color: white;
+}
+
+@media ( max-width: 375px) {
+	.headline {
+		font-size: 15px;
+	}
+	p {
+		font-size: 10px;
+	}
 }
